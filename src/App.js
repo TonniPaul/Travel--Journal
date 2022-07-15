@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Body from "./components/Body";
-import data from "./components/Data";
+import {data} from "./components/Data";
 import Footer from "./components/Footer";
 
 function App() {

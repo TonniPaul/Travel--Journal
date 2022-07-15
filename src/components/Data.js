@@ -1,4 +1,4 @@
-export default [
+export const data = [
    {  
       id: 1,
       img: "https://www.as-p.com/fileadmin/_processed_/import2018/0/f/csm_image1_20_302c7cb947.jpg?_=1607003855",
